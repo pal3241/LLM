@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+build/
+dist/
+*.egg-info/
+data/raw/
+data/clean/
+data/tokenized/
+checkpoints/
+release/
+logs/
+tokenizer/artifacts/

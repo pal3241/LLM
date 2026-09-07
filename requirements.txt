@@ -1,0 +1,8 @@
+torch>=2.2
+tokenizers>=0.15
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pydantic>=2.6
+numpy>=1.26
+tqdm>=4.66
+pytest>=8.0
